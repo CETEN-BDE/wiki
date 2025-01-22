@@ -1,0 +1,4 @@
+plugins:
+  markdownlint:
+    enabled: true
+  
