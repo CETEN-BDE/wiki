@@ -1,1 +1,3 @@
 site_name: CETEN Wiki
+nav:
+  - Accueil: index.md
